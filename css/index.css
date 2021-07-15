@@ -25,11 +25,6 @@ p:last-child {
   margin-bottom: 0;
 }
 p,
-.tmpl-post li,
-img {
-  max-width: 37.5em; /* 600px /16 */
-}
-p,
 .tmpl-post li {
   line-height: 1.45;
 }
@@ -155,18 +150,16 @@ code {
   padding: 0;
 }
 .postlist-item {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  counter-increment: start-from -1;
   line-height: 1.8;
 }
 .postlist-item:before {
   display: inline-block;
   pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
   line-height: 100%;
   text-align: right;
+}
+.postlist-item:not(:first-child) {
+  margin-top: 1em;
 }
 .postlist-date,
 .postlist-item:before {
@@ -177,8 +170,6 @@ code {
   word-spacing: -0.5px;
 }
 .postlist-link {
-  padding-left: .25em;
-  padding-right: .25em;
   text-underline-position: from-font;
   text-underline-offset: 0;
   text-decoration-thickness: 1px;

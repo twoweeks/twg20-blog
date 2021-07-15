@@ -1,12 +1,13 @@
 {
-  "name": "eleventy-base-blog",
+  "name": "twg-blog",
   "version": "5.0.2",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "description": "",
   "scripts": {
-    "build": "eleventy",
-    "watch": "eleventy --watch",
-    "serve": "eleventy --serve",
-    "start": "eleventy --serve",
+    "clear": "del-cli ./_site",
+    "build": "npm run clear && eleventy",
+    "watch": "npm run clear && eleventy --watch",
+    "serve": "npm run clear && eleventy --serve",
+    "start": "npm run clear && eleventy --serve",
     "debug": "DEBUG=* eleventy"
   },
   "repository": {
@@ -24,12 +25,12 @@
   },
   "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-navigation": "^0.1.6",
-    "@11ty/eleventy-plugin-rss": "^1.1.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
-    "luxon": "^1.26.0",
-    "markdown-it": "^12.0.4",
-    "markdown-it-anchor": "^7.1.0"
+    "@11ty/eleventy": "0.12.1",
+    "@11ty/eleventy-navigation": "0.3.2",
+    "@11ty/eleventy-plugin-rss": "1.1.1",
+    "del-cli": "4.0.0",
+    "luxon": "2.0.1",
+    "markdown-it": "12.0.4",
+    "markdown-it-anchor": "8.1.0"
   }
 }

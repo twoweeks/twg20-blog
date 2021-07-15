@@ -5,6 +5,7 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const safeExternalLinks = require("@hirusi/eleventy-plugin-safe-external-links");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const htmlmin = require('html-minifier');
 
 module.exports = function(eleventyConfig) {
   // Add plugins
@@ -42,6 +43,18 @@ module.exports = function(eleventyConfig) {
   // Return the smallest number argument
   eleventyConfig.addFilter("min", (...numbers) => {
     return Math.min.apply(null, numbers);
+  });
+
+  eleventyConfig.addTransform('htmlmin', (content, outputPath) => {
+    if (outputPath && outputPath.endsWith('.html')) {
+        return htmlmin.minify(
+            content, {
+                removeComments: true,
+                collapseWhitespace: true
+            }
+        );
+    }
+    return content;
   });
 
   function filterTagList(tags) {

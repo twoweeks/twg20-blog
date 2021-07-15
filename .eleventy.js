@@ -133,8 +133,8 @@ module.exports = function(eleventyConfig) {
     pathPrefix: "/",
     // -----------------------------------------------------------------
 
-    markdownTemplateEngine: false,
-    htmlTemplateEngine: "njk",
+    markdownTemplateEngine: 'njk',
+    htmlTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
 
     passthroughFileCopy: true,

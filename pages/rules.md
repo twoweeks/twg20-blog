@@ -5,7 +5,7 @@ is_page: true
 page_id: rules
 ---
 
-If you are not a Russian-speaking user, you can use <a href="https://translate.google.com/translate?hl=ru&amp;tl=en&amp;u={{ metadata.url }}{{ page.url | url }}" rel="nofollow noopener" target="_blank">this link</a> to view this page. The Russian version is basic, because machine translation can distort the essence of some rules. Sorry!
+If you are not a Russian-speaking user, you can use <a href="https://translate.google.com/translate?hl=ru&amp;tl=en&amp;u={{ metadata.url }}{{ page.url | url }}" target="_blank">this link</a> to view this page. The Russian version is basic, because machine translation can distort the essence of some rules. Sorry!
 
 <hr />
 
@@ -41,8 +41,8 @@ If you are not a Russian-speaking user, you can use <a href="https://translate.g
 
 #### Как можно поддержать конкурс?
 
-* Тинькофф Банк – можно сделать прямой перевод в фонд конкурса <a href="https://www.tinkoff.ru/sl/HhpJ4oVLWf" rel="nofollow noopener">по этой ссылке</a>.
-* ЮMoney (Яндекс.Деньги) – можно перевести деньги <a href="https://yoomoney.ru/to/410014712660418" rel="nofollow noopener">по этой ссылке</a> или прямо на кошелёк: 410014712660418.
+* Тинькофф Банк – можно сделать прямой перевод в фонд конкурса <a href="https://www.tinkoff.ru/sl/HhpJ4oVLWf">по этой ссылке</a>.
+* ЮMoney (Яндекс.Деньги) – можно перевести деньги <a href="https://yoomoney.ru/to/410014712660418">по этой ссылке</a> или прямо на кошелёк: 410014712660418.
 
 <hr />
 

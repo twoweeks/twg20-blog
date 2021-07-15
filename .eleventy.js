@@ -16,9 +16,6 @@ module.exports = function(eleventyConfig) {
     noreferrer: true,
   });
 
-  // https://www.11ty.dev/docs/data-deep-merge/
-  eleventyConfig.setDataDeepMerge(true);
-
   // Alias `layout: post` to `layout: layouts/post.njk`
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
@@ -73,9 +70,10 @@ module.exports = function(eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
-  // Copy the `img` and `css` folders to the output
-  eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
+  // Copy to the output
+  eleventyConfig.addPassthroughCopy("src/styles");
+  eleventyConfig.addPassthroughCopy('src/scripts');
+  eleventyConfig.addPassthroughCopy('src/**/*.(html|gif|jpg|png|webp|svg|mp4|webm|zip)');
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
@@ -93,7 +91,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('_site/404.html');
+        const content_404 = fs.readFileSync('dist/site/404.html');
 
         browserSync.addMiddleware("*", (req, res) => {
           // Provides the 404 content without redirect.
@@ -131,21 +129,18 @@ module.exports = function(eleventyConfig) {
     pathPrefix: "/",
     // -----------------------------------------------------------------
 
-    // Pre-process *.md files with: (default: `liquid`)
-    markdownTemplateEngine: "njk",
-
-    // Pre-process *.html files with: (default: `liquid`)
+    markdownTemplateEngine: false,
     htmlTemplateEngine: "njk",
+    dataTemplateEngine: 'njk',
 
-    // Opt-out of pre-processing global data JSON files: (default: `liquid`)
-    dataTemplateEngine: false,
+    passthroughFileCopy: true,
 
     // These are all optional (defaults are shown):
     dir: {
-      input: ".",
-      includes: "_includes",
-      data: "_data",
-      output: "_site"
+      input: "src",
+      includes: "includes",
+      data: "data",
+      output: "dist"
     }
   };
 };

@@ -3,7 +3,7 @@
   "version": "5.0.2",
   "description": "",
   "scripts": {
-    "clear": "del-cli ./_site",
+    "clear": "del-cli ./dist",
     "build": "npm run clear && eleventy",
     "watch": "npm run clear && eleventy --watch",
     "serve": "npm run clear && eleventy --serve",

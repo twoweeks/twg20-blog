@@ -77,7 +77,7 @@ module.exports = function(eleventyConfig) {
   // Copy to the output
   eleventyConfig.addPassthroughCopy("src/styles");
   eleventyConfig.addPassthroughCopy('src/scripts');
-  eleventyConfig.addPassthroughCopy('src/**/*.(html|gif|jpg|png|webp|svg|mp4|webm|zip)');
+  eleventyConfig.addPassthroughCopy('src/**/*.(html|gif|jpg|png|webp|ico|svg|mp4|webm|zip)');
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({

@@ -1,0 +1,4 @@
+Sitemap: https://20.twg.host/sitemap.xml
+
+User-agent: *
+Disallow:

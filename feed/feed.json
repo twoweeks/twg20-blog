@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Two Weeks Game 2.0",
+  "language": "ru",
+  "home_page_url": "https://20.twg.host",
+  "feed_url": "https://20.twg.host/feed/feed.json",
+  "description": "Конкурс по разработке видеоигр",
+  "author": {
+    "name": "OP",
+    "url": "https://20.twg.host/about-me/"
+  },
+  "items": [{
+      "id": "https://20.twg.host/posts/01-start/",
+      "url": "https://20.twg.host/posts/01-start/",
+      "title": "Стартуем!",
+      "content_html": "<p>Начало конкурса - 17 июля 2021 года, в 12:00 МСК, вместе с объявлением темы.</p>\n<p>Регламент конкурса можно <a href=\"https://20.twg.host/\">почитать здесь</a>.</p>\n",
+      "date_published": "2021-07-14T07:58:00Z"
+    }
+  ]
+}

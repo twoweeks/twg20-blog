@@ -42,6 +42,10 @@ module.exports = function(eleventyConfig) {
     return Math.min.apply(null, numbers);
   });
 
+  eleventyConfig.addFilter('addTimestamp', (value) => {
+    return value + '?ts=' + new Date().getTime();
+  });
+
   eleventyConfig.addTransform('htmlmin', (content, outputPath) => {
     if (outputPath && outputPath.endsWith('.html')) {
         return htmlmin.minify(

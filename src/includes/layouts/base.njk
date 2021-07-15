@@ -8,8 +8,8 @@
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
 
-    <link rel="stylesheet" href="{{ '/styles/index.css' | url }}">
-    <link rel="stylesheet" href="{{ '/styles/main.css' | url }}">
+    <link rel="stylesheet" href="{{ '/styles/index.css' | addTimestamp | url }}">
+    <link rel="stylesheet" href="{{ '/styles/main.css' | addTimestamp | url }}">
   </head>
   <body>
     <div class="container">

@@ -5,12 +5,30 @@
 	
 	<link href="https://20.twg.host/feed/feed.xml" rel="self"/>
 	<link href="https://20.twg.host"/>
-	<updated>2021-07-14T07:58:00Z</updated>
+	<updated>2021-07-16T00:00:00Z</updated>
 	<id>https://20.twg.host</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Отчёты по пожертвованиям</title>
+		<link href="https://20.twg.host/posts/02-donations/"/>
+		<updated>2021-07-16T00:00:00Z</updated>
+		<id>https://20.twg.host/posts/02-donations/</id>
+		<content type="html">&lt;p&gt;В этом посте будут собраны все пожертвования в призовой фонд конкурса.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ТК · 16.07.2021 · 2500 ₽ · Космогопник · &lt;q&gt;На мой любимый цирк ну и чтоб мотивация вернуть деньги была)&lt;/q&gt;&lt;/li&gt;
+&lt;li&gt;ТК · 13.07.2021 · 1500 ₽ · олд · &lt;q&gt;двойной бигмак&lt;/q&gt;&lt;/li&gt;
+&lt;li&gt;ТК · 13.07.2021 · 5000 ₽ · Рональд Макдональд · &lt;q&gt;За рекламу нашего заведения на конкурсе&lt;/q&gt;&lt;/li&gt;
+&lt;li&gt;ТК · 13.07.2021 · 1500 ₽ · Котёл · &lt;q&gt;в фонд шизы&lt;/q&gt;&lt;/li&gt;
+&lt;li&gt;ТК · 13.07.2021 · 1000 ₽ · JabberX · комментария нет&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ЮМ - ЮMoney, ТК - Тинькофф Банк. Список обновляется.&lt;/p&gt;
+&lt;p&gt;Спасибо всем за поддержку конкурса!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Стартуем!</title>

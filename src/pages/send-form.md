@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Форма отправки игры
 is_page: true
-page_id: send-page
+page_id: send-form
 ---
 <iframe src="https://gd-twg20-app.blyat.science/client/#/send" style="
     width: 100%;

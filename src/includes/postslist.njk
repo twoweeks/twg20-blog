@@ -1,15 +1,17 @@
-<h3>Блог конкурса</h3>
+<section class="content__blog">
+  <h3>Блог конкурса</h3>
 
-<ul reversed class="postlist">
-  {% for post in postslist | reverse %}
-    <li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-      <div>
-        <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-        <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-      </div>
-      <div>
-        {% if post.data.description %}{{ post.data.description }} – {% endif %}<a href="{{ post.url | url }}" class="postlist-link">читать далее</a>
-      </div>
-    </li>
-  {% endfor %}
-</ul>
+  <ul reversed class="postlist">
+    {% for post in postslist | reverse %}
+      <li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+        <div>
+          <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+          <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+        </div>
+        <div>
+          {% if post.data.description %}{{ post.data.description }} – {% endif %}<a href="{{ post.url | url }}" class="postlist-link">читать далее</a>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

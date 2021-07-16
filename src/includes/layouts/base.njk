@@ -23,12 +23,8 @@
         </div>
       </header>
 
-      <main class="content">
-        {% include "../content-top.njk" %}
-
-        <section class="content__posts {% if is_page %}page{% endif %}">
-          {{ content | safe }}
-        </section>
+      <main class="content {% if is_page %}page{% endif %}">
+        {{ content | safe }}
       </main>
 
       {% include "./sidebar.njk" %}

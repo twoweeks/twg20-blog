@@ -1,8 +1,9 @@
-const { DateTime } = require("luxon");
 const fs = require("fs");
+
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const safeExternalLinks = require("@hirusi/eleventy-plugin-safe-external-links");
+
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const htmlmin = require('html-minifier');
@@ -20,17 +21,19 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).setLocale("ru").toLocaleString(DateTime.DATE_MED);
+    return new Date(dateObj).toLocaleString('ru', { dateStyle: 'medium' });
   });
 
-  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+    const _date = new Date(dateObj)
+    const month = new Date().getMonth() + 1
+
+    return `${_date.getFullYear()}-${month < 10 ? `0${month}` : month}-${_date.getDate()}`
   });
 
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {
-    if( n < 0 ) {
+    if (n < 0) {
       return array.slice(n);
     }
 

@@ -10,6 +10,12 @@
     "url": "https://20.twg.host/about-me/"
   },
   "items": [{
+      "id": "https://20.twg.host/posts/03-theme/",
+      "url": "https://20.twg.host/posts/03-theme/",
+      "title": "Тема конкурса",
+      "content_html": "<div style=\"text-align: center;\">\n  <p style=\"margin-bottom: 0; font-size: 1.5em;\">тема конкурса:</p>\n  <p style=\"margin-top: 0.5em; font-size: 2em; font-weight: bold;\">ВРЕМЯ ИМЕЕТ ЗНАЧЕНИЕ</p>\n</div>\n<p>Стартуем!</p>\n<p>Как всегда, допускается свободная интерпретация темы. Это может быть механика по контролю времени (как пример, Bullet time), или же какая-либо сюжетная концепция. Всё ограничено только твоей фантазией, анон!</p>\n<p>Демоверсию своей игры нужно отправить до <strong>24 июля, 23:59 МСК</strong> включительно. Это считается регистрацией в конкурсе, и без неё вы не допускаетесь к финалу.</p>\n<p>Форма отправки игры будет доступна за пару дней до конца демонедели, следите за новостями о конкурсе на нашем <a href=\"https://discord.gg/FNFnJVCZA9\">Discord-сервере</a>, в тредах на /gd/, в <a href=\"https://t.me/gdchat\">Telegram-чате</a>, и в других источниках.</p>\n<p>Всем удачи на конкурсе!</p>\n",
+      "date_published": "2021-07-17T00:00:00Z"
+    },{
       "id": "https://20.twg.host/posts/02-donations/",
       "url": "https://20.twg.host/posts/02-donations/",
       "title": "Отчёты по пожертвованиям",

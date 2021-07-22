@@ -5,12 +5,23 @@
 	
 	<link href="https://20.twg.host/feed/feed.xml" rel="self"/>
 	<link href="https://20.twg.host"/>
-	<updated>2021-07-17T00:00:00Z</updated>
+	<updated>2021-07-22T00:00:00Z</updated>
 	<id>https://20.twg.host</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Опубликована форма отправки демоверсий</title>
+		<link href="https://20.twg.host/posts/04-demo-send-form/"/>
+		<updated>2021-07-22T00:00:00Z</updated>
+		<id>https://20.twg.host/posts/04-demo-send-form/</id>
+		<content type="html">&lt;p&gt;Форма доступна по этой ссылке: &lt;a href=&quot;https://20.twg.host/pages/send-form&quot;&gt;https://20.twg.host/pages/send-form&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Демоверсию своей игры нужно отправить до &lt;strong&gt;24 июля, 23:59 МСК&lt;/strong&gt; включительно. Это считается регистрацией в конкурсе, и без неё вы не допускаетесь к финалу.&lt;/p&gt;
+&lt;p&gt;Список отправленных демоверсий будет опубликован 25 июля.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Тема конкурса</title>

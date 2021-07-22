@@ -10,6 +10,12 @@
     "url": "https://20.twg.host/about-me/"
   },
   "items": [{
+      "id": "https://20.twg.host/posts/04-demo-send-form/",
+      "url": "https://20.twg.host/posts/04-demo-send-form/",
+      "title": "Опубликована форма отправки демоверсий",
+      "content_html": "<p>Форма доступна по этой ссылке: <a href=\"https://20.twg.host/pages/send-form\">https://20.twg.host/pages/send-form</a></p>\n<p>Демоверсию своей игры нужно отправить до <strong>24 июля, 23:59 МСК</strong> включительно. Это считается регистрацией в конкурсе, и без неё вы не допускаетесь к финалу.</p>\n<p>Список отправленных демоверсий будет опубликован 25 июля.</p>\n",
+      "date_published": "2021-07-22T00:00:00Z"
+    },{
       "id": "https://20.twg.host/posts/03-theme/",
       "url": "https://20.twg.host/posts/03-theme/",
       "title": "Тема конкурса",

@@ -1,0 +1,354 @@
+[
+	{
+	  "title": "Ninja Invaders or smth like that",
+	  "genre": "Арканоид",
+	  "description": "Ниндзя ползут за стенами, кидай им за спину гранату. выход альт+ф4",
+	  "tools": "Unity",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXID-ErLhZj-FVNF?e=yVvMhB",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Capitan Gad",
+	  "genre": "Аркада 80го уровня",
+	  "description": "Путешествуем по космосу, отбиваемся от метеоритов и инопланетян, высаживаемся на различные планеты грабим их и сваливаем в другие вселенные. ",
+	  "tools": "Unity, blender",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXDQDYShRMNFONdR?e=FFD5Gy",
+	  "screenshot": ""
+	},
+	{
+	  "title": "It's not my fault I have to do my chores!",
+	  "genre": "Казуалка",
+	  "description": "Томоко Куроки решает снимать дом вместе с одноклассницами, но совсем забывает о своих домашних обязанность! Спустя время подруги Мокочи заставляют её заглаживать вину, работая 5 дней подряд по дому.",
+	  "tools": "GameMaker Studio 2",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizWtbyO6o9lgs2ozZ?e=uTLnv4",
+	  "screenshot": ""
+	},
+	{
+	  "title": "ЯЩИК ВРЕМЕНИ",
+	  "genre": "Экранер",
+	  "description": "Сиди и смотри в экран. Молча. ДАВАЙ ДАВАЙ КРУТИ РУЧКИ, МЫ ЖЕ БОГАТЫЕ ЕЩЕ НАДЕЛАЕМ БИЛДОВ ДА УРА!!!1! Десять заветных каналов... Найди их...",
+	  "tools": "Godot, Adobe Photoshop 2020, Adobe Premiere Pro, FL Studio, Telegram, Discord, IRL",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXTW9ZLLtL18RM8Z?e=owOyJt",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Time",
+	  "genre": "",
+	  "description": "Игра под мобильный телефон. Пользователь, удерживая пальцем на экране, должен с одной попытки выставить стрелки в указанное положение, если получилось, игра продолжается, если нет - проиграл",
+	  "tools": "Unity, Photoshop",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXVAvbESAfxtVJ4f?e=zZS1i7",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Bomb Chicken",
+	  "genre": "Аркада",
+	  "description": "Вы курица и вы взорветесь.",
+	  "tools": "Unity Blender PS",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXGpQSB3zBeEGz8u?e=j3FtiN",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Card Game",
+	  "genre": "головоломка",
+	  "description": "Игрок играет за чувака который работает в крупной ИТ конторе и отвечает за обработку фидбэка пользователей.\r\nУправление мышкой:\r\nЛКМ - таскать карточки.\r\nПКМ - зумировать карточки.",
+	  "tools": "Godot, Gimp, Blender.",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizW9z_om4v7f6H-Z6?e=rg6ArQ",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Thin Line Between Time and Space",
+	  "genre": "Rage Game",
+	  "description": "Время тесно связано с движением игрока.\r\nСтоит ему остановиться, и весь мир замирает\r\nИспользуя эту особенность игроку предстоит выбраться из загадочного места в котором он оказался.",
+	  "tools": "Unity",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizW3CT277uQGDl_Fx?e=n5Ndoa",
+	  "screenshot": ""
+	},
+	{
+	  "title": "NiceClock",
+	  "genre": "товер дефенс",
+	  "description": "игрок указывает время, пушка по середине экрана целится в соответствующую сторону",
+	  "tools": "годот, пейнт",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizWxwttTOJO-XxApH?e=xaIfrQ",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Корабельный какер",
+	  "genre": "Топдаун хуета",
+	  "description": "Геймплей по большей части на данный момент отсутствует. Можно поелозить кубиком (квадратиком) по кораблю. Ну и все. Цели в игре пока никакой нет. Зато есть тактическая пауза и телепортация.",
+	  "tools": "Unity",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizW6Jf5lpeFPW1Pt7?e=nNCBSv",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Месть Doomера",
+	  "genre": "Шутер от первого лица",
+	  "description": "Классический шутер от первого лица в духе Doom 3. Окунись в атмосферу 90х и помоги думеру отбиться от всех надоедливых школьников-гулей из тик тока. \r\nЦель игры - победить всех врагов за время",
+	  "tools": "Python 3.8, библиотека pygame ",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXNAXvBbhwWhBFFj?e=KEvsge",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Time Machine Problems",
+	  "genre": "Головоломка",
+	  "description": "Игрок должен манипулировать временем, а именно возвращаться в прошлое, чтобы менять вещи, которые в настоящем времени помогут найти детали, нужные для ремонта time machine.",
+	  "tools": "Unity3D, Blender, Photoshop, Adobe Illustrator",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgfQxaIV5kD9XO2o?e=ZV5OYi",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Веселый фермер",
+	  "genre": "Платформер",
+	  "description": "Можно бегать и прыгать",
+	  "tools": "Unity, Blender",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgh46fVO2CN_UOtQ?e=eVAaPY",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Чебурбот",
+	  "genre": "text adventure",
+	  "description": "Текстовая бродилка с ASCII графикой.\r\nРобот обследует зараженную территорию.\r\n\r\nПередвижение: вперед, назад, влево, вправо.\r\nИнформация: ! и ?, статус. Громкость: г=№\r\nи другие \"логические\" команды.",
+	  "tools": " ",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgyHdZaRSQY_nurV?e=BDnjdR",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Mommy DayZ",
+	  "genre": "Ресурс менеджмент",
+	  "description": "Тяжела жизнь молодой мамы. С каждой секундой вселенский хаос распространяется по квартире. Если не успеть - что ж, хаос поглотит что угодно.",
+	  "tools": "Unity, Photoshop",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhFhO2dG5t500hxE?e=M2NwOx",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Buradzynski",
+	  "genre": "Квест-бродилка",
+	  "description": "Ходить по роёну всячески.",
+	  "tools": "Контрухт 2",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhANGJUk13oFoAhX?e=SAA9C1",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Рабская ночь",
+	  "genre": "Симулятор",
+	  "description": "Главный герой - это раб. Раб системы и султана, под покровительством которого он коротает свои жалкие дни. Цель игры - заработать деньги и выкупить себя, выполняя поручения своего господина.",
+	  "tools": "Unity, Blender, Photoshop, Substance Painter, Substance Designer, FL Studio, Fuse",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhOrMkoOzOABsq2I?e=NixcNG",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Хронофаг",
+	  "genre": "Головоломка, Сайд-скроллер",
+	  "description": "ГГ ворует время",
+	  "tools": "Godot, Photoshop, Illustrator",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgHI_u3yXqCir-IN?e=aZ0I3p",
+	  "screenshot": ""
+	},
+	{
+	  "title": "The forest guard",
+	  "genre": "RTS",
+	  "description": "Вам нужно будет днем исследовать карту и собирать ресурсы, а ночью защищать и развивать свою базу ",
+	  "tools": "Unreal Engine 4,Blender, Zbrush,Photoshop,Maya",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhRdGMgvoc_5bxhX?e=LGgMkk",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Time doesn`t matter",
+	  "genre": "Адвенчура",
+	  "description": "Вы играете за сильного героя, вернувшегося назад во времени, и ваша задача - остановить злодея, задумавшего уничтожить мир. Сеттинг - фентези, магия.",
+	  "tools": "C++, SFML",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgYOe7CtlNcxTTaB?e=aQhP6A",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Chrono Front",
+	  "genre": "Аркада",
+	  "description": "Управляй обороной фронта, кликая по пушками и отправляя их в будущее. Не дай врагам сломить оборону или пересечь фронт!",
+	  "tools": "Godot, GIMP, Inkscape",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhKiBrG7PhsopMkJ?e=kUdH53",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Finished one",
+	  "genre": " Экшн от первого лица",
+	  "description": "Вам надо сбежать из тюрьмы проклятых до того, как ваше время закончиться и вы повторите судьбу остальных узников - станете конченным без времени.",
+	  "tools": "Unity",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXh2UlhY2JSq3Vcv?e=xEQlvt",
+	  "screenshot": ""
+	},
+	{
+	  "title": "bleedout jellyfish",
+	  "genre": "экшон",
+	  "description": "хотлайн но я не сделол",
+	  "tools": "unity, paint",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgoP1T85yf2EO3Ve?e=HFdyzd",
+	  "screenshot": ""
+	},
+	{
+	  "title": "yon",
+	  "genre": "Action-Survival",
+	  "description": "маффыыынка!! вжжууух!!\r\n(пробел - действие)",
+	  "tools": "Unity, Blender, Paint",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgke0AJEQYNDTKYx?e=bO1GzI",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Jituha",
+	  "genre": "Кликер",
+	  "description": "Вырасти сына, посади дерево (нет), построй дом!\r\nВ жизни каждого мальчика наступает такой момент, когда пора стать мужчиной. Докажи что способен стать мужиком, за время отведенное тебе судьбой!",
+	  "tools": "SFML, Paint",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXeclPS1_FWR7zUP?e=cPhdZA",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Racing Through Time",
+	  "genre": "Демка",
+	  "description": "",
+	  "tools": "",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgC1c-RHJhj26dP-?e=i1bdof",
+	  "screenshot": ""
+	},
+	{
+	  "title": "TEMPUS",
+	  "genre": "Roguelike",
+	  "description": "Рогалик про сражение с врагами в реальном времени.",
+	  "tools": "Unity",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgQhC7Z0y0VooMmm?e=pTVaKc",
+	  "screenshot": ""
+	},
+	{
+	  "title": "ТЁЛКА НАВОНЯВШАЯ ВРЕМЯ",
+	  "genre": "Платформер/паззл",
+	  "description": "В этом безумнейшем мире, где каждый шаг должен быть обдуман сотни,\r\nиногда миллионы раз, вам придется сыграть за бабу что умеет разру\r\nшать предметы.",
+	  "tools": "Godot,Blender,PS",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizX7KrltWvXlGiGGa?e=jwOCbH",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Space",
+	  "genre": "Спейс шутер",
+	  "description": "Клон астероидов, цель игры - прокачаться до встречи с финальным босом. Ключевая геймплейная фишка - перемотка времени вперед, что отхиливает игрока, но ускоряет финальный замес. В демке не успел.",
+	  "tools": "Unity, Photopea, спизженные из гугла картинки",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizX8Cs84jKSsMyssF?e=hMUD1V",
+	  "screenshot": ""
+	},
+	{
+	  "title": "IKOL YTINIFNI",
+	  "genre": "Адвенчура",
+	  "description": "Икол в поисках Яивьлис, попавшей в плен к злодею Гнаку, берет штурмом его цитадель, но ему придется сразиться не только со злодеем но и... с самим собой... даже несколькими собой, в прошлом и будущем",
+	  "tools": "Godot, Photoshop",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXpNz7zoMALJwt2T?e=XrR7yi",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Time To Die",
+	  "genre": "Top-Down Shooter",
+	  "description": "временно отсутствует\r\n\r\n*Сорри за дубль, забыл упоминание о конкурсе вставить. Обновил ссылку на архив.",
+	  "tools": "Unity, Blender, Substance Painter",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizg6njWLqoLW4feLV?e=4Zbucr",
+	  "screenshot": ""
+	},
+	{
+	  "title": "dead_inside",
+	  "genre": "Survival horror",
+	  "description": "На данный момент я ничего не успел, поэтому описание бессмысленно. ",
+	  "tools": "Godot, GIMP, Blender",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXnEa1h6zSsxdWLL?e=CHfHSS",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Drop By Drop",
+	  "genre": "Экшен",
+	  "description": "Вы проигрываете, если теряете всю энергию, которая уходит сама со временем. Но запас энергии можно увеличить пожертвовав одной из своих способностей во время прохождения уровня",
+	  "tools": "GameMaker Studio 2, Paint.net, FL Studio 12",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXY8RnVqRrWZpo6J?e=5Mdhab",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Звездопад",
+	  "genre": "Метроивдания",
+	  "description": "Маленькая звездочка упала в прошлое чтобы изменить будущее.",
+	  "tools": "Unity, Photoshop",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgJvE81YIuYPZIco?e=yviMi7",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Time Wars",
+	  "genre": "Топ Даун шутер с наслоениями реальностей",
+	  "description": "Борьба параллельных реальностей будущего в прошлом за существование.",
+	  "tools": "Unity",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgXv3WD3IHPW2GvC?e=NaiL23",
+	  "screenshot": ""
+	},
+	{
+	  "title": "BONK!! Time warping game",
+	  "genre": "Адвенчура",
+	  "description": "Игра будет в сеттинге Дао-Какао. Кто знает, тот понел. Толковое описание будет в финалке. Или не будет.\r\nAD - бегать, F - бить (некого), пробел - прыжок.\r\n ",
+	  "tools": "Godot, Paint",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgsHnm12LatJ47Wu?e=VerFVa",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Таблетки для шизы",
+	  "genre": "Адвенчура",
+	  "description": "Врач подобрал неправильно таблетки, но обнаружилось свойство заморозки времени",
+	  "tools": "Unity, Photoshop",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXsULLTeF3FhxNZQ?e=tpVUeH",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Chrono Russia",
+	  "genre": "Адвенчура с элементами RPG",
+	  "description": "Зумер отправляется прошлое, чтобы спасти Батю и Россию. ",
+	  "tools": "RPG Maker, Paint.net",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizg1tjgp7PPOzMBtD?e=MauYNy",
+	  "screenshot": ""
+	},
+	{
+	  "title": "TWTKT",
+	  "genre": "Пазл",
+	  "description": "Неиграбельно atm.",
+	  "tools": "",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizg8OlXxKMTucwhKQ?e=pc25N3",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Это произойдёт внезапно и ты от этого не убежишь...",
+	  "genre": "Смешанный",
+	  "description": "Секрет",
+	  "tools": "Unity",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizXwIHZYzb-O5M4JG?e=30vZyP",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Time, please?",
+	  "genre": "",
+	  "description": "В данной игре вам потребуется сноровка ориентирования во времени. Гуляя по городу, вам часто придётся сталкиваться с ситуациями, когда вам нужно знать точное время.",
+	  "tools": "Sublime Text, MinGW, Tiled",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgObsJtiXccf_9T0?e=5Xp5R7",
+	  "screenshot": ""
+	},
+	{
+	  "title": "PushTime",
+	  "genre": "Puzzle Action",
+	  "description": "Помоги девочке управляющей временем сбежать...",
+	  "tools": "Godot, Paint.net",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizX2gLxIeqy0Rqzl9?e=RyLUMm",
+	  "screenshot": ""
+	},
+	{
+	  "title": "Chrono Circle",
+	  "genre": "Топ-даун пазл",
+	  "description": "",
+	  "tools": "",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhWiyK-UpTKOjXxB?e=mWcvUh",
+	  "screenshot": ""
+	},
+	{
+	  "title": "TikTik",
+	  "genre": "платформер",
+	  "description": "Мышка хочет остановить время и съесть весь сыр, пока хозяева на работе, коварные лапы Рыжика хотят помешать ему.",
+	  "tools": "Construct 0.97, LibreSprite",
+	  "archive": "https://1drv.ms/u/s!AsNfKXA75jDizg8OlXxKMTucwhKQ?e=lw9JzI",
+	  "screenshot": ""
+	}
+]

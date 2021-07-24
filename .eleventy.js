@@ -61,6 +61,10 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
+  eleventyConfig.addFilter("arrayLength", array => {
+    return array.length;
+  });
+
   // Copy to the output
   eleventyConfig.addPassthroughCopy("src/styles");
   eleventyConfig.addPassthroughCopy('src/scripts');

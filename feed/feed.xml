@@ -357,13 +357,13 @@
   &lt;div class=&quot;game&quot;&gt;
     &lt;picture class=&quot;game__picture&quot;&gt;
       
-      &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/farm.jpg&quot;&gt;
-        &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/farm.jpg&quot; alt=&quot;Чебурбот (демка)&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/cheburbot.jpg&quot;&gt;
+        &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/cheburbot.jpg&quot; alt=&quot;Чебурбот&quot; loading=&quot;lazy&quot; /&gt;
       &lt;/a&gt;
       
     &lt;/picture&gt;
     &lt;div class=&quot;game__info&quot;&gt;
-      &lt;h3 class=&quot;game__info__title&quot;&gt;Чебурбот (демка)&lt;/h3&gt;
+      &lt;h3 class=&quot;game__info__title&quot;&gt;Чебурбот&lt;/h3&gt;
       &lt;p class=&quot;game__info__genre&quot;&gt;
         Жанр: text adventure
       &lt;/p&gt;

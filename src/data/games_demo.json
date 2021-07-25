@@ -104,12 +104,12 @@
     "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/farm.jpg"
   },
   {
-    "title": "Чебурбот (демка)",
+    "title": "Чебурбот",
     "genre": "text adventure",
     "description": "Текстовая бродилка с ASCII графикой.\r\nРобот обследует зараженную территорию.\r\n\r\nПередвижение: вперед, назад, влево, вправо.\r\nИнформация: ! и ?, статус. Громкость: г=№\r\nи другие \"логические\" команды.",
     "tools": " ",
     "archive": "https://1drv.ms/u/s!AsNfKXA75jDizgyHdZaRSQY_nurV?e=BDnjdR",
-    "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/farm.jpg"
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/cheburbot.jpg"
   },
   {
     "title": "Mommy DayZ",

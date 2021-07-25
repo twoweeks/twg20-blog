@@ -176,3 +176,14 @@ body {
   background-position: left center;
   background-size: 20px;
 }
+
+@media (max-width: 768px) {
+  .games-container .game {
+    grid-template-rows: 200px 1fr;
+    grid-template-columns: 1fr
+  }
+  .games-container .game .game__info {
+    padding-left: 0;
+    padding-top: 10px
+  }
+}

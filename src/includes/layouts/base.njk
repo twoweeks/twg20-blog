@@ -25,6 +25,10 @@
 
       <main class="content {% if is_page %}page{% endif %}">
         {{ content | safe }}
+
+        {% if page.url === '/' %}
+          <p>Более ранние посты доступны в <a href="{{ '/posts/' | url }}">архиве</a></p>
+        {% endif %}
       </main>
 
       {% include "./sidebar.njk" %}

@@ -14,4 +14,8 @@
       </li>
     {% endfor %}
   </ul>
+
+  {% if page.url === '/' %}
+    <p>Более ранние посты доступны в <a href="{{ '/posts/' | url }}">архиве</a></p>
+  {% endif %}
 </section>

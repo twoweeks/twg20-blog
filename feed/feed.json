@@ -10,6 +10,12 @@
     "url": "https://20.twg.host/about-me/"
   },
   "items": [{
+      "id": "https://20.twg.host/posts/06-final-send-form/",
+      "url": "https://20.twg.host/posts/06-final-send-form/",
+      "title": "Доступна форма отправки финальных версий игр",
+      "content_html": "<p>Форма доступна по этой ссылке: <a href=\"https://20.twg.host/pages/send-form\">https://20.twg.host/pages/send-form</a></p>\n<p>Финальную версию своей игры нужно отправить до <strong>1 августа, 23:59 МСК</strong> включительно.</p>\n<p>Список отправленных финальных версий будет опубликован 2 августа.</p>\n",
+      "date_published": "2021-07-30T00:00:00Z"
+    },{
       "id": "https://20.twg.host/posts/05-demo/",
       "url": "https://20.twg.host/posts/05-demo/",
       "title": "Демоверсии",

@@ -17,7 +17,7 @@
 		<link href="https://20.twg.host/posts/08-final/"/>
 		<updated>2021-08-02T00:00:00Z</updated>
 		<id>https://20.twg.host/posts/08-final/</id>
-		<content type="html">&lt;p&gt;Всего на конкурс было отправлено 25 проекта.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Всего на конкурс было отправлено 26 проекта.&lt;/p&gt;
 
 &lt;p&gt;Теперь участникам даётся время на поиграть во всё (до 5 августа), а затем им будет отправлена форма голосования. Как будет проходить голосование, вы можете прочитать в &lt;a href=&quot;https://20.twg.host/pages/rules/#%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0&quot;&gt;регламенте конкурса&lt;/a&gt;.&lt;/p&gt;
 
@@ -645,7 +645,32 @@
           ВЕРНИТЕСЬ В ПРОШЛОЕ, ЧТОБЫ ВСЕ ИСПРАВИТЬ
         &lt;/p&gt;
         
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot, Blender, GIMP, Audacity&lt;/p&gt;
+        
         &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizjnJYWuxrGSaFfsH?e=W5gU2F&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/final/pills.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/final/pills.jpg&quot; alt=&quot;Таблетки для шизы&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Таблетки для шизы&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанра нет
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Описания нет
+        &lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizjqkyJAJEacXRCEj?e=vHutQZ&quot; target=&quot;_blank&quot;&gt;
           &lt;span&gt;скачать&lt;/span&gt;
         &lt;/a&gt;
       &lt;/div&gt;

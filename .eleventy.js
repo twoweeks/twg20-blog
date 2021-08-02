@@ -61,8 +61,10 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
-  eleventyConfig.addFilter("arrayLength", array => {
-    return array.length;
+  eleventyConfig.addFilter("declOfNum", ({ number, titles }) => {
+    const NumberAbs = Math.abs(number);
+    const Cases = [2, 0, 1, 1, 1, 2];
+    return `${NumberAbs} ${titles[NumberAbs % 100 > 4 && NumberAbs % 100 < 20 ? 2 : Cases[NumberAbs % 10 < 5 ? NumberAbs % 10 : 5]]}`;
   });
 
   // Copy to the output

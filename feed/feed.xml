@@ -664,11 +664,13 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Таблетки для шизы&lt;/h3&gt;
         &lt;p class=&quot;game__info__genre&quot;&gt;
-          Жанра нет
+          Жанр: Адвенчура
         &lt;/p&gt;
         &lt;p class=&quot;game__info__description&quot;&gt;
-          Описания нет
+          Доктор прописал таблетки от депрессии, но они дали странный эффект заморозки времени. Управляй временем, успевай везде.
         &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Photoshop, Audacity&lt;/p&gt;
         
         &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizjqkyJAJEacXRCEj?e=vHutQZ&quot; target=&quot;_blank&quot;&gt;
           &lt;span&gt;скачать&lt;/span&gt;

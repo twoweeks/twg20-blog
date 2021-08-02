@@ -195,8 +195,16 @@
     "title": "dead_inside",
     "genre": "ХОРРОР",
     "description": "ВЕРНИТЕСЬ В ПРОШЛОЕ, ЧТОБЫ ВСЕ ИСПРАВИТЬ",
-    "tools": "",
+    "tools": "Godot, Blender, GIMP, Audacity",
     "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjnJYWuxrGSaFfsH?e=W5gU2F",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/dead-inside.jpg"
+  },
+  {
+    "title": "Таблетки для шизы",
+    "genre": "",
+    "description": "",
+    "tools": "",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjqkyJAJEacXRCEj?e=vHutQZ",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/pills.jpg"
   }
 ]

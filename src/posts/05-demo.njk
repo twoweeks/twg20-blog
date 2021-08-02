@@ -8,37 +8,8 @@ layout: layouts/post.njk
 
 <p>Срок окончания приёма финальных версий - <strong>01 августа, 23:59 МСК</strong></p>
 
-<div class="games-container">
-  {% for gameInfo in games_demo %}
-  <div class="game">
-    <picture class="game__picture">
-      {% if gameInfo.screenshot %}
-      <a href="{{ gameInfo.screenshot }}">
-        <img src="{{ gameInfo.screenshot }}" alt="{{ gameInfo.title }}" loading="lazy">
-      </a>
-      {% else %}
-      <a href="javascript:void 0">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg" alt="скриншота нет" loading="lazy">
-      </a>
-      {% endif %}
-    </picture>
-    <div class="game__info">
-      <h3 class="game__info__title">{{ gameInfo.title }}</h3>
-      <p class="game__info__genre">
-        {% if gameInfo.genre %}Жанр: {{ gameInfo.genre }}{% else %}Жанра нет{% endif %}
-      </p>
-      <p class="game__info__description">
-        {% if gameInfo.description %}{{ gameInfo.description }}{% else %}Описания нет{% endif %}
-      </p>
-      {% if gameInfo.tools %}
-        <p class="game__info__tools">Сделано с помощью: {{ gameInfo.tools }}</p>
-      {% endif %}
-      <a class="game__info__link" href="{{ gameInfo.archive }}" target="_blank">
-        <span>скачать</span>
-      </a>
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
 <p>Скачать все игры разом в одном архиве можно по <a href="https://1drv.ms/u/s!AsNfKXA75jDizWqKnjN_z8VjzZTi?e=cBjCSz" target="_blank">этой ссылке</a>.</p>
+
+{% from "macro/games-list.njk" import gamesList %}
+
+{{ gamesList(games_demo) }}

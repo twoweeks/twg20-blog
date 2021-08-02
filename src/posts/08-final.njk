@@ -1,0 +1,21 @@
+---
+title: Финальные версии
+description: Наконец-то!
+date: 2021-08-02
+layout: layouts/post.njk
+---
+<p>Всего на конкурс было отправлено {{ games_final | arrayLength }} проекта.</p>
+
+<p>Теперь участникам даётся время на поиграть во всё (до 5 августа), а затем им будет отправлена форма голосования. Как будет проходить голосование, вы можете прочитать в <a href="{{ '/pages/rules/#итоги-конкурса' | url }}">регламенте конкурса</a>.</p>
+
+<p>Скачать все игры разом в одном архиве можно по <a href="https://1drv.ms/u/s!AsNfKXA75jDizheLXdMOxWCIHgST?e=EM8PAc" target="_blank">этой ссылке</a>.</p>
+
+{% from "macro/games-list.njk" import gamesList %}
+
+{{ gamesList(games_final) }}
+
+<br>
+
+<hr>
+
+<p>В этом списке также должна была быть игра <b>Jituha</b>, но у неё был <a href="https://2ch.hk/gd/src/759117/16279215218300.png" target="_blank">запаролен архив</a>. Успевай починить до вечера 3 августа.</p>

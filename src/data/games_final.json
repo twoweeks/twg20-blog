@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Thin Line Between Time and Space",
+    "genre": "Rage Game",
+    "description": "Время тесно связано с движением игрока. Стоит ему остановиться, и весь мир замирает Используя эту особенность игроку предстоит выбраться из загадочного места в котором он оказался.",
+    "tools": "Unity",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhgNGI3MYLdG2b4F?e=LdyE4B",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/thin-line.jpg"
+  },
+  {
+    "title": "Time",
+    "genre": "",
+    "description": "Игра под мобильный телефон. Пользователь, удерживая пальцем на экране, должен с одной попытки выставить стрелки в указанное положение, если получилось, игра продолжается, если нет - проиграл",
+    "tools": "Unity, Photoshop",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhrCL1vrohWKFYEb?e=BeletN",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/time.jpg"
+  },
+  {
+    "title": "Бурадзинский",
+    "genre": "Кликерная квестодилка",
+    "description": "Ходить всячески невозбранно по раёну.",
+    "tools": "Конструмент 2",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhsJijQEfmSK3IIT?e=A2LdFh",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/flasheslav.jpg"
+  },
+  {
+    "title": "FInished One",
+    "genre": "3D Action Aventure",
+    "description": "Нужно выбраться из тюрьмы, пока не выйдет время и вы не станете конченным.",
+    "tools": "Unity",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziCcZ0iWMT69LVkx?e=ApWF0x",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/fInished-one.jpg"
+  },
+  {
+    "title": "Card Game",
+    "genre": "головоломка",
+    "description": "Игрок играет за чувака который работает в крупной ИТ конторе и отвечает за обработку фидбэка пользователей. Управление мышкой.",
+    "tools": "Годот, Гимп, Блендур.",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizh1LmAT8yvsvDOzI?e=d0EsKN",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/card-game.jpg"
+  },
+  {
+    "title": "НЕ НУЖНО БОЛЬШЕ ОПРАВДАНИЙ: ТЁЛОЧКА НАВОНЯВШАЯ ВРЕМЯ",
+    "genre": "3д платформер,паззл,",
+    "description": "Нужно разрушить уровень, чтобы выбраться",
+    "tools": "Godot,Blender,PS",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizh8cH1pLXbU_HGFG?e=S7vXPi",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/tyan.jpg"
+  },
+  {
+    "title": "Time Machine Problems",
+    "genre": "Головоломка",
+    "description": "Игрок должен искать детали к машине времени, изменяя прошлое и решая головоломки в настоящем. Каждое действие игрока в прошлом меняет будущее, так что ему придется быть крайне осторожным.",
+    "tools": "Unity3D, Adobe Photoshop, Adobe Illustrator, Blender",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizh5ZglmQcvpB6Hqe?e=QjSbdA",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/time-machine-problems.jpg"
+  },
+  {
+    "title": "ЯЩИК ВРЕМЕНИ",
+    "genre": "Экранер, КЬЮЭСТ",
+    "description": "ДА ЗАЧЕМ ТЫ, ВООБЩЕ, ПРИТАЩИЛ С УЛИЦЫ ЭТОТ ЧЕРТОВ ЯЩИК? Теперь  б у д у щ е е  зависит от моих действий? NO NE БЫЛО LИ TAK «WSEGDA»?",
+    "tools": "Godot, Adobe Photoshop 2020, Adobe Premiere Pro, FL Studio, Telegram, Discord, IRL",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziJKouWPBx8FmSiL?e=WnyVis",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/box.jpg"
+  },
+  {
+    "title": "TikTik",
+    "genre": "платформер",
+    "description": "Кто-то украл весь сыр, мышке нужно найти его, пока он не испортился, есть 40 секунд, толстые мухи и когтистые лапы Рыжика.",
+    "tools": "Construct 0.97, LibreSprite, Sfxr, RWPaint",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziFn8SS75VpPw6iO?e=1EL6C5",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/tiktik.jpg"
+  },
+  {
+    "title": "Time To Die",
+    "genre": "Top Down Shooter",
+    "description": "Игрок защищает базу от злобных роботов, попутно поглощая их энергию ВРЕМЕНИ, которую тратит на прокачку оружия, и сражается вновь, пока не придет время умереть.",
+    "tools": "Unity, Blender, Substance Painter",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhxgQLwmhWbTFWsW?e=XcZViU",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/time-to-die.jpg"
+  },
+  {
+    "title": "Корабельный Какер",
+    "genre": "Топдаун экшн",
+    "description": "Ты пробрался на вражеский корабль с одной только целью - угнать его. Но! Природа взяла свое. Первым делом тебе нужно посрать. И единственное верное для этого место - душевые.",
+    "tools": "Unity, paint.net, Audacity, ChipTone",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziNL9E0kVPdZllZj?e=voFhGG",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/kaker.jpg"
+  },
+  {
+    "title": "Хронофаг",
+    "genre": "",
+    "description": "",
+    "tools": "Godot, illustrator, adobe animation",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizis3DGG_b_oOr-vT?e=zEVh8k",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/chronophage.jpg"
+  },
+  {
+    "title": "Push Time",
+    "genre": "Паззл Платформер",
+    "description": "Помоги девочке управляющей временем остановить Хронориона и спасти мир от конца света.",
+    "tools": "Godot, Paint.net и другие",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjGOKgDGhxZJMGav?e=qhobPb",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/pushtime.jpg"
+  },
+  {
+    "title": "Watashi ga kaji wo shiteru no wa dou kangaete mo omaera ga warui!",
+    "genre": "Казуалка",
+    "description": "Томоко решила снимать жильё со своими одноклассницами, но совсем забыла об обязанностях по дому! В наказание её подруги поручили ей убираться по дому весь день.",
+    "tools": "Gamemaker Studio 2",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziVF2pVeQ2oOs0dx?e=tMVkbw",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/watamote.jpg"
+  },
+  {
+    "title": "Time Wars",
+    "genre": "Шутер с петлей времени.",
+    "description": "Бюджет \"TWG 26: Last Rebirth++\" достиг 16 миллиардов долларов, вам удалось сдеанонить победителя, это ваш шанс отомстить и получить заслуженные призовые.",
+    "tools": "Unity, Paint.NET",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziYim4Z_GmmQfXsY?e=oIqwHK",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/time-wars.jpg"
+  },
+  {
+    "title": "Mommy Dayz",
+    "genre": "Ресурс менеджер",
+    "description": "Ежедневная борьба Мамы с вселенским хаосом, пытающимся поглотить её квартиру и её жизнь.",
+    "tools": "Unity, Photoshop",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizii8YYbu3S6oQ6v4?e=cs6buY",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/mommy-dayz.jpg"
+  },
+  {
+    "title": "Captain Gad",
+    "genre": "Аркада/топдавн шутер",
+    "description": "Играем за капитана, который разоряет космические системы",
+    "tools": "Unity, blender, Gimp",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziziEW5h98rJ5HSu?e=W33pSb",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/gad.jpg"
+  },
+  {
+    "title": "Рабская ночь",
+    "genre": "Симулятор",
+    "description": "Главный герой - это раб. Раб системы и султана, под покровительством которого он коротает свои жалкие дни. Цель игры - заработать деньги и выкупить себя, выполняя поручения своего господина.",
+    "tools": "Unity, Blender, Photoshop, Substance Painter, Substance Designer, FL Studio, Fuse",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjDk6K09VYD85aLX?e=bmeEue",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/sultan.jpg"
+  },
+  {
+    "title": "TEMPUS",
+    "genre": "Roguelike Slasher",
+    "description": "Игра про нелегкую борьбу безымянной героини с силами зла в попытках как можно быстрее восстановить цикл жизни вселенной.",
+    "tools": "Unity",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizi0ZE3lkjAhG11E3?e=DRLdX7",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/tempus.jpg"
+  },
+  {
+    "title": "yon",
+    "genre": "Action-Survival",
+    "description": "ну короче, суть игры в том, что играя за чувачков надо спасти других чувачков",
+    "tools": "unity",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjVHx0_5Kc8XPBIg?e=9W3xmf",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/yon.jpg"
+  },
+  {
+    "title": "The forest guard",
+    "genre": "RTS",
+    "description": "Вам нужно будет днем исследовать карту и собирать ресурсы, а ночью защищать и развивать совою базу",
+    "tools": "Unreal Engine 4,Blender, Zbrush,Photoshop,Maya",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizi-RRZ-xZs4d2RZA?e=mTK5lW",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/forest-guard.jpg"
+  },
+  {
+    "title": "TSTNT",
+    "genre": "Пазл",
+    "description": "Тетрис со свободным перемещением во времени.",
+    "tools": "Godot, Paint.net",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjZCtNoyuEoz__SO?e=zhbiWm",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/final/tstnt.jpg"
+  },
+  {
+    "title": "Chrono Front",
+    "genre": "Tower defense",
+    "description": "Управляй обороной фронта, кликая по пушками и отправляя их в будущее.Выбери орудия, организуй оборону и не дай врагам сломить оборону или пересечь фронт!",
+    "tools": "Godot, Inkscape, GIMP",
+    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjcGmKMY0ycI2fGk?e=Xv5wEe",
+    "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/chrono-front.jpg"
+  }
+]

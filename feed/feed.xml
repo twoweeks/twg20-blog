@@ -17,7 +17,7 @@
 		<link href="https://20.twg.host/posts/08-final/"/>
 		<updated>2021-08-02T00:00:00Z</updated>
 		<id>https://20.twg.host/posts/08-final/</id>
-		<content type="html">&lt;p&gt;Всего на конкурс было отправлено 23 проекта.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Всего на конкурс было отправлено 69 проекта.&lt;/p&gt;
 
 &lt;p&gt;Теперь участникам даётся время на поиграть во всё (до 5 августа), а затем им будет отправлена форма голосования. Как будет проходить голосование, вы можете прочитать в &lt;a href=&quot;https://20.twg.host/pages/rules/#%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0&quot;&gt;регламенте конкурса&lt;/a&gt;.&lt;/p&gt;
 
@@ -27,6 +27,1098 @@
 
 
   &lt;div class=&quot;games-container&quot;&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/ninja.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/ninja.jpg&quot; alt=&quot;Ninja Invaders or smth like that&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Ninja Invaders or smth like that&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Арканоид
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Ниндзя ползут за стенами, кидай им за спину гранату. выход альт+ф4
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXID-ErLhZj-FVNF?e=yVvMhB&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/gad.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/gad.jpg&quot; alt=&quot;Capitan Gad&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Capitan Gad&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Аркада 80го уровня
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Путешествуем по космосу, отбиваемся от метеоритов и инопланетян, высаживаемся на различные планеты грабим их и сваливаем в другие вселенные.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, blender&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXDQDYShRMNFONdR?e=FFD5Gy&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/watamote.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/watamote.jpg&quot; alt=&quot;It&amp;#39;s not my fault I have to do my chores!&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;It&amp;#39;s not my fault I have to do my chores!&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Казуалка
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Томоко Куроки решает снимать дом вместе с одноклассницами, но совсем забывает о своих домашних обязанность! Спустя время подруги Мокочи заставляют её заглаживать вину, работая 5 дней подряд по дому.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: GameMaker Studio 2&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizWtbyO6o9lgs2ozZ?e=uTLnv4&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/box.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/box.jpg&quot; alt=&quot;ЯЩИК ВРЕМЕНИ&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;ЯЩИК ВРЕМЕНИ&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Экранер
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Сиди и смотри в экран. Молча. ДАВАЙ ДАВАЙ КРУТИ РУЧКИ, МЫ ЖЕ БОГАТЫЕ ЕЩЕ НАДЕЛАЕМ БИЛДОВ ДА УРА!!!1! Десять заветных каналов... Найди их...
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot, Adobe Photoshop 2020, Adobe Premiere Pro, FL Studio, Telegram, Discord, IRL&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXTW9ZLLtL18RM8Z?e=owOyJt&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/time.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/time.jpg&quot; alt=&quot;Time&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Time&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанра нет
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Игра под мобильный телефон. Пользователь, удерживая пальцем на экране, должен с одной попытки выставить стрелки в указанное положение, если получилось, игра продолжается, если нет - проиграл
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Photoshop&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXVAvbESAfxtVJ4f?e=zZS1i7&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/chicken.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/chicken.jpg&quot; alt=&quot;Bomb Chicken&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Bomb Chicken&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Аркада
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вы курица и вы взорветесь.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity Blender PS&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXGpQSB3zBeEGz8u?e=j3FtiN&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://imgur.com/sgBDw7G&quot;&gt;
+          &lt;img src=&quot;https://imgur.com/sgBDw7G&quot; alt=&quot;Card Game&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Card Game&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: головоломка
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Игрок играет за чувака который работает в крупной ИТ конторе и отвечает за обработку фидбэка пользователей. Управление мышкой: ЛКМ - таскать карточки. ПКМ - зумировать карточки.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot, Gimp, Blender.&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizW9z_om4v7f6H-Z6?e=rg6ArQ&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/thin-line.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/thin-line.jpg&quot; alt=&quot;Thin Line Between Time and Space&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Thin Line Between Time and Space&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Rage Game
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Время тесно связано с движением игрока. Стоит ему остановиться, и весь мир замирает Используя эту особенность игроку предстоит выбраться из загадочного места в котором он оказался.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizW3CT277uQGDl_Fx?e=n5Ndoa&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/nice-clock.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/nice-clock.jpg&quot; alt=&quot;NiceClock&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;NiceClock&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: товер дефенс
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          игрок указывает время, пушка по середине экрана целится в соответствующую сторону
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: годот, пейнт&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizWxwttTOJO-XxApH?e=xaIfrQ&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/kaker.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/kaker.jpg&quot; alt=&quot;Корабельный какер&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Корабельный какер&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Топдаун хуета
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Геймплей по большей части на данный момент отсутствует. Можно поелозить кубиком (квадратиком) по кораблю. Ну и все. Цели в игре пока никакой нет. Зато есть тактическая пауза и телепортация.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizW6Jf5lpeFPW1Pt7?e=nNCBSv&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/doom.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/doom.jpg&quot; alt=&quot;Месть Doomера&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Месть Doomера&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Шутер от первого лица
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Классический шутер от первого лица в духе Doom 3. Окунись в атмосферу 90х и помоги думеру отбиться от всех надоедливых школьников-гулей из тик тока.  Цель игры - победить всех врагов за время
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Python 3.8, библиотека pygame&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXNAXvBbhwWhBFFj?e=KEvsge&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/time-machine.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/time-machine.jpg&quot; alt=&quot;Time Machine Problems&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Time Machine Problems&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Головоломка
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Игрок должен манипулировать временем, а именно возвращаться в прошлое, чтобы менять вещи, которые в настоящем времени помогут найти детали, нужные для ремонта time machine.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity3D, Blender, Photoshop, Adobe Illustrator&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgfQxaIV5kD9XO2o?e=ZV5OYi&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/farm.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/farm.jpg&quot; alt=&quot;Веселый фермер&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Веселый фермер&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Платформер
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Можно бегать и прыгать
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Blender&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgh46fVO2CN_UOtQ?e=eVAaPY&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/cheburbot.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/cheburbot.jpg&quot; alt=&quot;Чебурбот&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Чебурбот&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: text adventure
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Текстовая бродилка с ASCII графикой. Робот обследует зараженную территорию.  Передвижение: вперед, назад, влево, вправо. Информация: ! и ?, статус. Громкость: г=№ и другие &amp;quot;логические&amp;quot; команды.
+        &lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgyHdZaRSQY_nurV?e=BDnjdR&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/dayz.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/dayz.jpg&quot; alt=&quot;Mommy DayZ&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Mommy DayZ&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Ресурс менеджмент
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Тяжела жизнь молодой мамы. С каждой секундой вселенский хаос распространяется по квартире. Если не успеть - что ж, хаос поглотит что угодно.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Photoshop&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizhFhO2dG5t500hxE?e=M2NwOx&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/flasheslav.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/flasheslav.jpg&quot; alt=&quot;Buradzynski&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Buradzynski&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Квест-бродилка
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Ходить по роёну всячески.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Контрухт 2&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizhANGJUk13oFoAhX?e=SAA9C1&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/sultan.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/sultan.jpg&quot; alt=&quot;Рабская ночь&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Рабская ночь&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Симулятор
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Главный герой - это раб. Раб системы и султана, под покровительством которого он коротает свои жалкие дни. Цель игры - заработать деньги и выкупить себя, выполняя поручения своего господина.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Blender, Photoshop, Substance Painter, Substance Designer, FL Studio, Fuse&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizhOrMkoOzOABsq2I?e=NixcNG&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/chronofag.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/chronofag.jpg&quot; alt=&quot;Хронофаг&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Хронофаг&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Головоломка, Сайд-скроллер
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          ГГ ворует время
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot, Photoshop, Illustrator&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgHI_u3yXqCir-IN?e=aZ0I3p&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/forest-guard.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/forest-guard.jpg&quot; alt=&quot;The forest guard&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;The forest guard&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: RTS
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вам нужно будет днем исследовать карту и собирать ресурсы, а ночью защищать и развивать свою базу
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unreal Engine 4,Blender, Zbrush,Photoshop,Maya&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizhRdGMgvoc_5bxhX?e=LGgMkk&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/time-doesnt-matter.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/time-doesnt-matter.jpg&quot; alt=&quot;Time doesn`t matter&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Time doesn`t matter&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Адвенчура
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вы играете за сильного героя, вернувшегося назад во времени, и ваша задача - остановить злодея, задумавшего уничтожить мир. Сеттинг - фентези, магия.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: C++, SFML&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgYOe7CtlNcxTTaB?e=aQhP6A&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/chrono-front.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/chrono-front.jpg&quot; alt=&quot;Chrono Front&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Chrono Front&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Аркада
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Управляй обороной фронта, кликая по пушками и отправляя их в будущее. Не дай врагам сломить оборону или пересечь фронт!
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot, GIMP, Inkscape&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizhKiBrG7PhsopMkJ?e=kUdH53&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/finished.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/finished.jpg&quot; alt=&quot;Finished one&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Finished one&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Экшн от первого лица
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вам надо сбежать из тюрьмы проклятых до того, как ваше время закончиться и вы повторите судьбу остальных узников - станете конченным без времени.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXh2UlhY2JSq3Vcv?e=xEQlvt&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/bleedout.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/bleedout.jpg&quot; alt=&quot;bleedout jellyfish&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;bleedout jellyfish&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: экшон
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          хотлайн но я не сделол
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: unity, paint&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgoP1T85yf2EO3Ve?e=HFdyzd&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/yon.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/yon.jpg&quot; alt=&quot;yon&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;yon&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Action-Survival
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          маффыыынка!! вжжууух!! (пробел - действие)
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Blender, Paint&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgke0AJEQYNDTKYx?e=bO1GzI&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/jituha.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/jituha.jpg&quot; alt=&quot;Jituha&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Jituha&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Кликер
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вырасти сына, посади дерево (нет), построй дом! В жизни каждого мальчика наступает такой момент, когда пора стать мужчиной. Докажи что способен стать мужиком, за время отведенное тебе судьбой!
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: SFML, Paint&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizjhLL6aruz9G8Rei?e=lNLldD&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/racing.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/racing.jpg&quot; alt=&quot;Racing Through Time&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Racing Through Time&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Демка
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Описания нет
+        &lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgC1c-RHJhj26dP-?e=i1bdof&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/tempus.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/tempus.jpg&quot; alt=&quot;TEMPUS&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;TEMPUS&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Roguelike
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Рогалик про сражение с врагами в реальном времени.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgQhC7Z0y0VooMmm?e=pTVaKc&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/tyan.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/tyan.jpg&quot; alt=&quot;ТЁЛКА НАВОНЯВШАЯ ВРЕМЯ&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;ТЁЛКА НАВОНЯВШАЯ ВРЕМЯ&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Платформер/паззл
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          В этом безумнейшем мире, где каждый шаг должен быть обдуман сотни, иногда миллионы раз, вам придется сыграть за бабу что умеет разру шать предметы.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot,Blender,PS&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizX7KrltWvXlGiGGa?e=jwOCbH&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/space.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/space.jpg&quot; alt=&quot;Space&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Space&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Спейс шутер
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Клон астероидов, цель игры - прокачаться до встречи с финальным босом. Ключевая геймплейная фишка - перемотка времени вперед, что отхиливает игрока, но ускоряет финальный замес. В демке не успел.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Photopea, спизженные из гугла картинки&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizX8Cs84jKSsMyssF?e=hMUD1V&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/ikol.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/ikol.jpg&quot; alt=&quot;IKOL YTINIFNI&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;IKOL YTINIFNI&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Адвенчура
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Икол в поисках Яивьлис, попавшей в плен к злодею Гнаку, берет штурмом его цитадель, но ему придется сразиться не только со злодеем но и... с самим собой... даже несколькими собой, в прошлом и будущем
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot, Photoshop&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXpNz7zoMALJwt2T?e=XrR7yi&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/time-to-die.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/time-to-die.jpg&quot; alt=&quot;Time To Die&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Time To Die&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Top-Down Shooter
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          временно отсутствует
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Blender, Substance Painter&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizg6njWLqoLW4feLV?e=4Zbucr&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/dead-inside.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/dead-inside.jpg&quot; alt=&quot;dead_inside&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;dead_inside&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Survival horror
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          На данный момент я ничего не успел, поэтому описание бессмысленно.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot, GIMP, Blender&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXnEa1h6zSsxdWLL?e=CHfHSS&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/drop.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/drop.jpg&quot; alt=&quot;Drop By Drop&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Drop By Drop&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Экшен
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вы проигрываете, если теряете всю энергию, которая уходит сама со временем. Но запас энергии можно увеличить пожертвовав одной из своих способностей во время прохождения уровня
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: GameMaker Studio 2, Paint.net, FL Studio 12&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXY8RnVqRrWZpo6J?e=5Mdhab&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/starfall.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/starfall.jpg&quot; alt=&quot;Звездопад&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Звездопад&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Метроивдания
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Маленькая звездочка упала в прошлое чтобы изменить будущее.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Photoshop&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgJvE81YIuYPZIco?e=yviMi7&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/time-wars.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/time-wars.jpg&quot; alt=&quot;Time Wars&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Time Wars&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Топ Даун шутер с наслоениями реальностей
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Борьба параллельных реальностей будущего в прошлом за существование.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgXv3WD3IHPW2GvC?e=NaiL23&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/bonk.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/bonk.jpg&quot; alt=&quot;BONK!! Time warping game&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;BONK!! Time warping game&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Адвенчура
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Игра будет в сеттинге Дао-Какао. Кто знает, тот понел. Толковое описание будет в финалке. Или не будет. AD - бегать, F - бить (некого), пробел - прыжок.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot, Paint&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgsHnm12LatJ47Wu?e=VerFVa&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/pills.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/pills.jpg&quot; alt=&quot;Таблетки для шизы&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Таблетки для шизы&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Адвенчура
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Врач подобрал неправильно таблетки, но обнаружилось свойство заморозки времени
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Photoshop&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXsULLTeF3FhxNZQ?e=tpVUeH&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/chrono-russia.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/chrono-russia.jpg&quot; alt=&quot;Chrono Russia&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Chrono Russia&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Адвенчура с элементами RPG
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Зумер отправляется прошлое, чтобы спасти Батю и Россию.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: RPG Maker, Paint.net&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizg1tjgp7PPOzMBtD?e=MauYNy&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/twtkt.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/twtkt.jpg&quot; alt=&quot;TWTKT&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;TWTKT&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Пазл
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Неиграбельно atm.
+        &lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizg8OlXxKMTucwhKQ?e=pc25N3&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/eto.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/eto.jpg&quot; alt=&quot;Это произойдёт внезапно и ты от этого не убежишь...&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Это произойдёт внезапно и ты от этого не убежишь...&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Смешанный
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Секрет
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizXwIHZYzb-O5M4JG?e=30vZyP&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/time-please.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/time-please.jpg&quot; alt=&quot;Time, please?&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Time, please?&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанра нет
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          В данной игре вам потребуется сноровка ориентирования во времени. Гуляя по городу, вам часто придётся сталкиваться с ситуациями, когда вам нужно знать точное время.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Sublime Text, MinGW, Tiled&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizgObsJtiXccf_9T0?e=5Xp5R7&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/push-time.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/push-time.jpg&quot; alt=&quot;PushTime&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;PushTime&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Puzzle Action
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Помоги девочке управляющей временем сбежать...
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot, Paint.net&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizX2gLxIeqy0Rqzl9?e=RyLUMm&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://broken/&quot;&gt;
+          &lt;img src=&quot;https://broken/&quot; alt=&quot;Chrono Circle&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Chrono Circle&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Топ-даун пазл
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Описания нет
+        &lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizhWiyK-UpTKOjXxB?e=mWcvUh&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/demo/tiktik.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/demo/tiktik.jpg&quot; alt=&quot;TikTik&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;TikTik&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: платформер
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Мышка хочет остановить время и съесть весь сыр, пока хозяева на работе, коварные лапы Рыжика хотят помешать ему.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Construct 0.97, LibreSprite&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizha5B8W8CjOr2c4s?e=IoWP8x&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
     
     &lt;div class=&quot;game&quot;&gt;
       &lt;picture class=&quot;game__picture&quot;&gt;
@@ -73,6 +1165,31 @@
           &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Unity, Photoshop&lt;/p&gt;
         
         &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizhrCL1vrohWKFYEb?e=BeletN&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/final/jituha.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/final/jituha.jpg&quot; alt=&quot;Jituha&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Jituha&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Кликер, стратегия
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Способен ли ты правильно распорядится своим временем? Жить осталось не так то и много. За доступное время необходимо стать настоящим мужиком. Вырасти сына, построй дом и может быть даже посади дерево.
+        &lt;/p&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: SFML, C++, Paint&lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://broken/&quot; target=&quot;_blank&quot;&gt;
           &lt;span&gt;скачать&lt;/span&gt;
         &lt;/a&gt;
       &lt;/div&gt;
@@ -598,6 +1715,29 @@
           &lt;p class=&quot;game__info__tools&quot;&gt;Сделано с помощью: Godot, Inkscape, GIMP&lt;/p&gt;
         
         &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizjcGmKMY0ycI2fGk?e=Xv5wEe&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://cdn.blyat.science/gd/twg/20/final/dead-inside.jpg&quot;&gt;
+          &lt;img src=&quot;https://cdn.blyat.science/gd/twg/20/final/dead-inside.jpg&quot; alt=&quot;dead_inside&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;dead_inside&lt;/h3&gt;
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: ХОРРОР
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          ВЕРНИТЕСЬ В ПРОШЛОЕ, ЧТОБЫ ВСЕ ИСПРАВИТЬ
+        &lt;/p&gt;
+        
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizjnJYWuxrGSaFfsH?e=W5gU2F&quot; target=&quot;_blank&quot;&gt;
           &lt;span&gt;скачать&lt;/span&gt;
         &lt;/a&gt;
       &lt;/div&gt;

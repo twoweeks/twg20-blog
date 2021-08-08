@@ -5,12 +5,82 @@
 	
 	<link href="https://20.twg.host/feed/feed.xml" rel="self"/>
 	<link href="https://20.twg.host"/>
-	<updated>2021-08-05T00:00:00Z</updated>
+	<updated>2021-08-08T00:00:00Z</updated>
 	<id>https://20.twg.host</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Итоги конкурса</title>
+		<link href="https://20.twg.host/posts/10-results/"/>
+		<updated>2021-08-08T00:00:00Z</updated>
+		<id>https://20.twg.host/posts/10-results/</id>
+		<content type="html">
+&lt;div style=&quot;text-align:center;&quot;&gt;
+  &lt;p&gt;Дождались!&lt;/p&gt;
+
+  &lt;div class=&quot;place&quot;&gt;
+    &lt;picture class=&quot;place__image&quot;&gt;
+      &lt;img src=&quot;https://20.twg.host/posts/10-results/images/time-wars.jpg&quot; alt=&quot;Time Wars screenshot&quot; /&gt;
+    &lt;/picture&gt;
+
+    &lt;div class=&quot;place__text&quot;&gt;
+      &lt;span&gt;1 место&lt;/span&gt;
+
+      &lt;span style=&quot;font-size: 5em;&quot;&gt;Time Wars&lt;/span&gt;
+
+      &lt;span&gt;5050 рублей&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;place&quot;&gt;
+    &lt;picture class=&quot;place__image&quot;&gt;
+      &lt;img src=&quot;https://20.twg.host/posts/10-results/images/chronophage.jpg&quot; alt=&quot;Chronophage screenshot&quot; /&gt;
+    &lt;/picture&gt;
+
+    &lt;div class=&quot;place__text&quot;&gt;
+      &lt;span&gt;2 место&lt;/span&gt;
+
+      &lt;span style=&quot;font-size: 5em;&quot;&gt;Хронофаг&lt;/span&gt;
+
+      &lt;span&gt;3030 рублей&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;place&quot;&gt;
+    &lt;picture class=&quot;place__image&quot;&gt;
+      &lt;img src=&quot;https://20.twg.host/posts/10-results/images/yon.jpg&quot; alt=&quot;yon screenshot&quot; /&gt;
+    &lt;/picture&gt;
+
+    &lt;div class=&quot;place__text&quot;&gt;
+      &lt;span&gt;3 место&lt;/span&gt;
+
+      &lt;span style=&quot;font-size: 5em;&quot;&gt;yon&lt;/span&gt;
+
+      &lt;span&gt;2020 рублей&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr style=&quot;margin: 1em;&quot; /&gt;
+
+&lt;div style=&quot;margin-top: 1em&quot;&gt;
+  &lt;p&gt;Победителям просьба связаться с организатором конкурса для получения призов.&lt;/p&gt;
+
+  &lt;p&gt;Почта организатора: &lt;a href=&quot;mailto:op@gdjams.ru&quot;&gt;op@gdjams.ru&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1-Li75GDdcw-yviCtAV0Kv8J8ZtD-qBWnO0XHysfN3yY/edit?usp=sharing&quot;&gt;Таблица с итогами&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;Напоминаю участникам, что вы также можете отправить свою игру на конкурс &lt;b&gt;Two Weeks Game: Underground&lt;/b&gt;, который стартует вот уже 14 августа. Подробности можно найти в блоге конкурса: &lt;a href=&quot;https://twg20legitime.blogspot.com/&quot;&gt;twg20legitime.blogspot.com&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Следующий&lt;span style=&quot;font-size: 0;&quot;&gt; легитимный&lt;/span&gt; конкурс стартует в январе 2022 года. Чтобы его не пропустить, следите за новостями в &lt;a href=&quot;https://2ch.hk/gd/&quot;&gt;/gd/&lt;/a&gt;, а также на нашем &lt;a href=&quot;https://discord.gg/FNFnJVCZA9&quot;&gt;сервере в Discord&lt;/a&gt; и &lt;a href=&quot;https://t.me/gdchat&quot;&gt;чате в Telegram&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Всем спасибо за участие!&lt;/p&gt;
+&lt;/div&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Формы для голосования отправлены всем финалистам</title>

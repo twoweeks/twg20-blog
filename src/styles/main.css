@@ -45,6 +45,27 @@ body {
   padding-bottom: 10px;
 }
 
+.content__top__nav {
+  margin-top: 15px;
+}
+
+.content__top__nav ul {
+  padding: 0;
+}
+
+.content__top__nav li {
+  display: inline-block;
+  list-style: none;
+}
+
+.content__top__nav li:not(:first-child) {
+  margin-left: .25em;
+}
+
+.content__top__nav li:not(:first-child)::before {
+  content: ' · ';
+}
+
 .content__blog {
   margin-top: 20px;
 }

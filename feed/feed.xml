@@ -3,10 +3,10 @@
 	<title>Two Weeks Game 2.0</title>
 	<subtitle>Конкурс по разработке видеоигр</subtitle>
 	
-	<link href="https://20.twg.host/feed/feed.xml" rel="self"/>
-	<link href="https://20.twg.host"/>
+	<link href="https://20.twoweeks.ru/feed/feed.xml" rel="self"/>
+	<link href="https://20.twoweeks.ru"/>
 	<updated>2021-08-08T00:00:00Z</updated>
-	<id>https://20.twg.host</id>
+	<id>https://20.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
@@ -14,16 +14,16 @@
 	
 	<entry>
 		<title>Итоги конкурса</title>
-		<link href="https://20.twg.host/posts/10-results/"/>
+		<link href="https://20.twoweeks.ru/posts/10-results/"/>
 		<updated>2021-08-08T00:00:00Z</updated>
-		<id>https://20.twg.host/posts/10-results/</id>
+		<id>https://20.twoweeks.ru/posts/10-results/</id>
 		<content type="html">
 &lt;div style=&quot;text-align:center;&quot;&gt;
   &lt;p&gt;Дождались!&lt;/p&gt;
 
   &lt;div class=&quot;place&quot;&gt;
     &lt;picture class=&quot;place__image&quot;&gt;
-      &lt;img src=&quot;https://20.twg.host/posts/10-results/images/time-wars.jpg&quot; alt=&quot;Time Wars screenshot&quot; /&gt;
+      &lt;img src=&quot;https://20.twoweeks.ru/posts/10-results/images/time-wars.jpg&quot; alt=&quot;Time Wars screenshot&quot; /&gt;
     &lt;/picture&gt;
 
     &lt;div class=&quot;place__text&quot;&gt;
@@ -37,7 +37,7 @@
 
   &lt;div class=&quot;place&quot;&gt;
     &lt;picture class=&quot;place__image&quot;&gt;
-      &lt;img src=&quot;https://20.twg.host/posts/10-results/images/chronophage.jpg&quot; alt=&quot;Chronophage screenshot&quot; /&gt;
+      &lt;img src=&quot;https://20.twoweeks.ru/posts/10-results/images/chronophage.jpg&quot; alt=&quot;Chronophage screenshot&quot; /&gt;
     &lt;/picture&gt;
 
     &lt;div class=&quot;place__text&quot;&gt;
@@ -51,7 +51,7 @@
 
   &lt;div class=&quot;place&quot;&gt;
     &lt;picture class=&quot;place__image&quot;&gt;
-      &lt;img src=&quot;https://20.twg.host/posts/10-results/images/yon.jpg&quot; alt=&quot;yon screenshot&quot; /&gt;
+      &lt;img src=&quot;https://20.twoweeks.ru/posts/10-results/images/yon.jpg&quot; alt=&quot;yon screenshot&quot; /&gt;
     &lt;/picture&gt;
 
     &lt;div class=&quot;place__text&quot;&gt;
@@ -84,9 +84,9 @@
 	
 	<entry>
 		<title>Формы для голосования отправлены всем финалистам</title>
-		<link href="https://20.twg.host/posts/09-voting-forms-sent/"/>
+		<link href="https://20.twoweeks.ru/posts/09-voting-forms-sent/"/>
 		<updated>2021-08-05T00:00:00Z</updated>
-		<id>https://20.twg.host/posts/09-voting-forms-sent/</id>
+		<id>https://20.twoweeks.ru/posts/09-voting-forms-sent/</id>
 		<content type="html">&lt;p&gt;Участники, внимательно проверяйте почты (письмо может улететь в спам, увы).&lt;/p&gt;
 &lt;p&gt;Было решено расширить количество игр, которые необходимо оценить, с 3 до 10.&lt;/p&gt;
 &lt;p&gt;Проголосовать нужно до &lt;strong&gt;7 августа, 23:59 МСК&lt;/strong&gt; включительно.&lt;/p&gt;
@@ -95,12 +95,12 @@
 	
 	<entry>
 		<title>Финальные версии</title>
-		<link href="https://20.twg.host/posts/08-final/"/>
+		<link href="https://20.twoweeks.ru/posts/08-final/"/>
 		<updated>2021-08-02T00:00:00Z</updated>
-		<id>https://20.twg.host/posts/08-final/</id>
+		<id>https://20.twoweeks.ru/posts/08-final/</id>
 		<content type="html">&lt;p&gt;Всего на конкурс было отправлено 26 проектов.&lt;/p&gt;
 
-&lt;p&gt;Теперь участникам даётся время на поиграть во всё (до 5 августа), а затем им будет отправлена форма голосования (мониторьте почты!). Как будет проходить голосование, вы можете прочитать в &lt;a href=&quot;https://20.twg.host/pages/rules/#%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0&quot;&gt;регламенте конкурса&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Теперь участникам даётся время на поиграть во всё (до 5 августа), а затем им будет отправлена форма голосования (мониторьте почты!). Как будет проходить голосование, вы можете прочитать в &lt;a href=&quot;https://20.twoweeks.ru/pages/rules/#%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0&quot;&gt;регламенте конкурса&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Скачать все игры разом в одном архиве можно по &lt;a href=&quot;https://1drv.ms/u/s!AsNfKXA75jDizheLXdMOxWCIHgST?e=EM8PAc&quot; target=&quot;_blank&quot;&gt;этой ссылке&lt;/a&gt;.&lt;/p&gt;
 
@@ -772,9 +772,9 @@
 	
 	<entry>
 		<title>Дополнительный (почти) день</title>
-		<link href="https://20.twg.host/posts/07-extra-day/"/>
+		<link href="https://20.twoweeks.ru/posts/07-extra-day/"/>
 		<updated>2021-07-30T00:00:00Z</updated>
-		<id>https://20.twg.host/posts/07-extra-day/</id>
+		<id>https://20.twoweeks.ru/posts/07-extra-day/</id>
 		<content type="html">&lt;p&gt;Традиционно, к сроку сдачи финальных версий добавляется (почти) один день.&lt;/p&gt;
 &lt;p&gt;Сдать вашу игру нужно до &lt;strong&gt;2 августа, 19:59 МСК&lt;/strong&gt; включительно.&lt;/p&gt;
 </content>
@@ -782,21 +782,21 @@
 	
 	<entry>
 		<title>Доступна форма отправки финальных версий игр</title>
-		<link href="https://20.twg.host/posts/06-final-send-form/"/>
+		<link href="https://20.twoweeks.ru/posts/06-final-send-form/"/>
 		<updated>2021-07-30T00:00:00Z</updated>
-		<id>https://20.twg.host/posts/06-final-send-form/</id>
-		<content type="html">&lt;p&gt;Форма доступна по этой ссылке: &lt;a href=&quot;https://20.twg.host/pages/send-form&quot;&gt;https://20.twg.host/pages/send-form&lt;/a&gt;&lt;/p&gt;
+		<id>https://20.twoweeks.ru/posts/06-final-send-form/</id>
+		<content type="html">&lt;p&gt;Форма доступна по этой ссылке: &lt;a href=&quot;https://20.twoweeks.ru/pages/send-form&quot;&gt;https://20.twoweeks.ru/pages/send-form&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Финальную версию своей игры нужно отправить до &lt;strong&gt;1 августа, 23:59 МСК&lt;/strong&gt; включительно.&lt;/p&gt;
-&lt;p&gt;UPD: Срок сдачи &lt;a href=&quot;https://20.twg.host/posts/07-extra-day/&quot;&gt;продлён&lt;/a&gt; до &lt;strong&gt;2 августа, 19:59 МСК&lt;/strong&gt; включительно.&lt;/p&gt;
+&lt;p&gt;UPD: Срок сдачи &lt;a href=&quot;https://20.twoweeks.ru/posts/07-extra-day/&quot;&gt;продлён&lt;/a&gt; до &lt;strong&gt;2 августа, 19:59 МСК&lt;/strong&gt; включительно.&lt;/p&gt;
 &lt;p&gt;Список отправленных финальных версий будет опубликован 2 августа.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Демоверсии</title>
-		<link href="https://20.twg.host/posts/05-demo/"/>
+		<link href="https://20.twoweeks.ru/posts/05-demo/"/>
 		<updated>2021-07-25T00:00:00Z</updated>
-		<id>https://20.twg.host/posts/05-demo/</id>
+		<id>https://20.twoweeks.ru/posts/05-demo/</id>
 		<content type="html">&lt;p&gt;Всего на конкурс было прислано 26 проектов проекта. Их авторы проходят этап регистрации, и теперь должны будут сделать финальные версии своих игр.&lt;/p&gt;
 
 &lt;p&gt;Срок окончания приёма финальных версий - &lt;strong&gt;01 августа, 23:59 МСК&lt;/strong&gt;&lt;/p&gt;
@@ -1926,10 +1926,10 @@ AD - бегать, F - бить (некого), пробел - прыжок.
 	
 	<entry>
 		<title>Опубликована форма отправки демоверсий</title>
-		<link href="https://20.twg.host/posts/04-demo-send-form/"/>
+		<link href="https://20.twoweeks.ru/posts/04-demo-send-form/"/>
 		<updated>2021-07-22T00:00:00Z</updated>
-		<id>https://20.twg.host/posts/04-demo-send-form/</id>
-		<content type="html">&lt;p&gt;Форма доступна по этой ссылке: &lt;a href=&quot;https://20.twg.host/pages/send-form&quot;&gt;https://20.twg.host/pages/send-form&lt;/a&gt;&lt;/p&gt;
+		<id>https://20.twoweeks.ru/posts/04-demo-send-form/</id>
+		<content type="html">&lt;p&gt;Форма доступна по этой ссылке: &lt;a href=&quot;https://20.twoweeks.ru/pages/send-form&quot;&gt;https://20.twoweeks.ru/pages/send-form&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Демоверсию своей игры нужно отправить до &lt;strong&gt;24 июля, 23:59 МСК&lt;/strong&gt; включительно. Это считается регистрацией в конкурсе, и без неё вы не допускаетесь к финалу.&lt;/p&gt;
 &lt;p&gt;Список отправленных демоверсий будет опубликован 25 июля.&lt;/p&gt;
 </content>
@@ -1937,9 +1937,9 @@ AD - бегать, F - бить (некого), пробел - прыжок.
 	
 	<entry>
 		<title>Тема конкурса</title>
-		<link href="https://20.twg.host/posts/03-theme/"/>
+		<link href="https://20.twoweeks.ru/posts/03-theme/"/>
 		<updated>2021-07-17T00:00:00Z</updated>
-		<id>https://20.twg.host/posts/03-theme/</id>
+		<id>https://20.twoweeks.ru/posts/03-theme/</id>
 		<content type="html">&lt;div style=&quot;text-align: center;&quot;&gt;
   &lt;p style=&quot;margin-bottom: 0; font-size: 1.5em;&quot;&gt;тема конкурса:&lt;/p&gt;
   &lt;p style=&quot;margin-top: 0.5em; font-size: 2em; font-weight: bold;&quot;&gt;ВРЕМЯ ИМЕЕТ ЗНАЧЕНИЕ&lt;/p&gt;
@@ -1954,9 +1954,9 @@ AD - бегать, F - бить (некого), пробел - прыжок.
 	
 	<entry>
 		<title>Отчёты по пожертвованиям</title>
-		<link href="https://20.twg.host/posts/02-donations/"/>
+		<link href="https://20.twoweeks.ru/posts/02-donations/"/>
 		<updated>2021-07-16T00:00:00Z</updated>
-		<id>https://20.twg.host/posts/02-donations/</id>
+		<id>https://20.twoweeks.ru/posts/02-donations/</id>
 		<content type="html">&lt;p&gt;В этом посте будут собраны все пожертвования в призовой фонд конкурса.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ЮМ · 06.08.2021 · 95 ₽ · аноним · комментария нет&lt;/li&gt;
@@ -1976,11 +1976,11 @@ AD - бегать, F - бить (некого), пробел - прыжок.
 	
 	<entry>
 		<title>Стартуем!</title>
-		<link href="https://20.twg.host/posts/01-start/"/>
+		<link href="https://20.twoweeks.ru/posts/01-start/"/>
 		<updated>2021-07-14T07:58:00Z</updated>
-		<id>https://20.twg.host/posts/01-start/</id>
+		<id>https://20.twoweeks.ru/posts/01-start/</id>
 		<content type="html">&lt;p&gt;Начало конкурса - 17 июля 2021 года, в 12:00 МСК, вместе с объявлением темы.&lt;/p&gt;
-&lt;p&gt;Регламент конкурса можно &lt;a href=&quot;https://20.twg.host/pages/rules&quot;&gt;почитать здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Регламент конкурса можно &lt;a href=&quot;https://20.twoweeks.ru/pages/rules&quot;&gt;почитать здесь&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 </feed>

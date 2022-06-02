@@ -10,6 +10,12 @@
     "url": "https://20.twoweeks.ru"
   },
   "items": [{
+      "id": "https://20.twoweeks.ru/posts/11-next-twg/",
+      "url": "https://20.twoweeks.ru/posts/11-next-twg/",
+      "title": "Two Weeks Game 22",
+      "content_html": "<p>Сайт конкурса - <a href=\"https://22.twoweeks.ru/\">22.twoweeks.ru</a>.</p>\n<p>Старт - в начале июля.</p>\n",
+      "date_published": "2022-06-02T00:00:00Z"
+    },{
       "id": "https://20.twoweeks.ru/posts/10-results/",
       "url": "https://20.twoweeks.ru/posts/10-results/",
       "title": "Итоги конкурса",

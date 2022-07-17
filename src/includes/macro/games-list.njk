@@ -24,9 +24,11 @@
         {% if gameInfo.tools %}
           <p class="game__info__tools">Сделано с помощью: {{ gameInfo.tools }}</p>
         {% endif %}
-        <a class="game__info__link" href="{{ gameInfo.archive }}" target="_blank">
-          <span>скачать</span>
-        </a>
+        {% if gameInfo.archive %}
+          <a class="game__info__link" href="{{ gameInfo.archive }}" target="_blank">
+            <span>скачать</span>
+          </a>
+        {% endif %}
       </div>
     </div>
     {% endfor %}

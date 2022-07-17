@@ -4,7 +4,7 @@
     "genre": "Rage Game",
     "description": "Время тесно связано с движением игрока. Стоит ему остановиться, и весь мир замирает Используя эту особенность игроку предстоит выбраться из загадочного места в котором он оказался.",
     "tools": "Unity",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhgNGI3MYLdG2b4F?e=LdyE4B",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/thin-line.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "genre": "",
     "description": "Игра под мобильный телефон. Пользователь, удерживая пальцем на экране, должен с одной попытки выставить стрелки в указанное положение, если получилось, игра продолжается, если нет - проиграл",
     "tools": "Unity, Photoshop",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhrCL1vrohWKFYEb?e=BeletN",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/time.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "genre": "Кликер, стратегия",
     "description": "Способен ли ты правильно распорядится своим временем? Жить осталось не так то и много. За доступное время необходимо стать настоящим мужиком. Вырасти сына, построй дом и может быть даже посади дерево.",
     "tools": "SFML, C++, Paint",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjhLL6aruz9G8Rei?e=6BfTsZ",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/jituha.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "genre": "Кликерная квестодилка",
     "description": "Ходить всячески невозбранно по раёну.",
     "tools": "Конструмент 2",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhsJijQEfmSK3IIT?e=A2LdFh",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/flasheslav.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "genre": "3D Action Aventure",
     "description": "Нужно выбраться из тюрьмы, пока не выйдет время и вы не станете конченным.",
     "tools": "Unity",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziCcZ0iWMT69LVkx?e=ApWF0x",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/fInished-one.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "genre": "головоломка",
     "description": "Игрок играет за чувака который работает в крупной ИТ конторе и отвечает за обработку фидбэка пользователей. Управление мышкой.",
     "tools": "Годот, Гимп, Блендур.",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizh1LmAT8yvsvDOzI?e=d0EsKN",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/card-game.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "genre": "3д платформер,паззл,",
     "description": "Нужно разрушить уровень, чтобы выбраться",
     "tools": "Godot,Blender,PS",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizh8cH1pLXbU_HGFG?e=S7vXPi",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/tyan.jpg"
   },
   {
@@ -60,7 +60,7 @@
     "genre": "Головоломка",
     "description": "Игрок должен искать детали к машине времени, изменяя прошлое и решая головоломки в настоящем. Каждое действие игрока в прошлом меняет будущее, так что ему придется быть крайне осторожным.",
     "tools": "Unity3D, Adobe Photoshop, Adobe Illustrator, Blender",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizh5ZglmQcvpB6Hqe?e=QjSbdA",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/time-machine-problems.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "genre": "Экранер, КЬЮЭСТ",
     "description": "ДА ЗАЧЕМ ТЫ, ВООБЩЕ, ПРИТАЩИЛ С УЛИЦЫ ЭТОТ ЧЕРТОВ ЯЩИК? Теперь  б у д у щ е е  зависит от моих действий? NO NE БЫЛО LИ TAK «WSEGDA»?",
     "tools": "Godot, Adobe Photoshop 2020, Adobe Premiere Pro, FL Studio, Telegram, Discord, IRL",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziJKouWPBx8FmSiL?e=WnyVis",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/box.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "genre": "платформер",
     "description": "Кто-то украл весь сыр, мышке нужно найти его, пока он не испортился, есть 40 секунд, толстые мухи и когтистые лапы Рыжика.",
     "tools": "Construct 0.97, LibreSprite, Sfxr, RWPaint",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziFn8SS75VpPw6iO?e=1EL6C5",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/tiktik.jpg"
   },
   {
@@ -84,7 +84,7 @@
     "genre": "Top Down Shooter",
     "description": "Игрок защищает базу от злобных роботов, попутно поглощая их энергию ВРЕМЕНИ, которую тратит на прокачку оружия, и сражается вновь, пока не придет время умереть.",
     "tools": "Unity, Blender, Substance Painter",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizhxgQLwmhWbTFWsW?e=XcZViU",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/time-to-die.jpg"
   },
   {
@@ -92,7 +92,7 @@
     "genre": "Топдаун экшн",
     "description": "Ты пробрался на вражеский корабль с одной только целью - угнать его. Но! Природа взяла свое. Первым делом тебе нужно посрать. И единственное верное для этого место - душевые.",
     "tools": "Unity, paint.net, Audacity, ChipTone",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziNL9E0kVPdZllZj?e=voFhGG",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/kaker.jpg"
   },
   {
@@ -100,7 +100,7 @@
     "genre": "",
     "description": "",
     "tools": "Godot, illustrator, adobe animation",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizis3DGG_b_oOr-vT?e=zEVh8k",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/chronophage.jpg"
   },
   {
@@ -108,7 +108,7 @@
     "genre": "Паззл Платформер",
     "description": "Помоги девочке управляющей временем остановить Хронориона и спасти мир от конца света.",
     "tools": "Godot, Paint.net и другие",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjGOKgDGhxZJMGav?e=qhobPb",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/pushtime.jpg"
   },
   {
@@ -116,7 +116,7 @@
     "genre": "Казуалка",
     "description": "Томоко решила снимать жильё со своими одноклассницами, но совсем забыла об обязанностях по дому! В наказание её подруги поручили ей убираться по дому весь день.",
     "tools": "Gamemaker Studio 2",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziVF2pVeQ2oOs0dx?e=tMVkbw",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/watamote.jpg"
   },
   {
@@ -124,7 +124,7 @@
     "genre": "Шутер с петлей времени.",
     "description": "Бюджет \"TWG 26: Last Rebirth++\" достиг 16 миллиардов долларов, вам удалось сдеанонить победителя, это ваш шанс отомстить и получить заслуженные призовые.",
     "tools": "Unity, Paint.NET",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziYim4Z_GmmQfXsY?e=oIqwHK",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/time-wars.jpg"
   },
   {
@@ -132,7 +132,7 @@
     "genre": "Ресурс менеджер",
     "description": "Ежедневная борьба Мамы с вселенским хаосом, пытающимся поглотить её квартиру и её жизнь.",
     "tools": "Unity, Photoshop",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizii8YYbu3S6oQ6v4?e=cs6buY",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/mommy-dayz.jpg"
   },
   {
@@ -140,7 +140,7 @@
     "genre": "Аркада/топдавн шутер",
     "description": "Играем за капитана, который разоряет космические системы",
     "tools": "Unity, blender, Gimp",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDiziziEW5h98rJ5HSu?e=W33pSb",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/gad.jpg"
   },
   {
@@ -148,7 +148,7 @@
     "genre": "Симулятор",
     "description": "Главный герой - это раб. Раб системы и султана, под покровительством которого он коротает свои жалкие дни. Цель игры - заработать деньги и выкупить себя, выполняя поручения своего господина.",
     "tools": "Unity, Blender, Photoshop, Substance Painter, Substance Designer, FL Studio, Fuse",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjDk6K09VYD85aLX?e=bmeEue",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/sultan.jpg"
   },
   {
@@ -156,7 +156,7 @@
     "genre": "Roguelike Slasher",
     "description": "Игра про нелегкую борьбу безымянной героини с силами зла в попытках как можно быстрее восстановить цикл жизни вселенной.",
     "tools": "Unity",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizi0ZE3lkjAhG11E3?e=DRLdX7",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/tempus.jpg"
   },
   {
@@ -164,7 +164,7 @@
     "genre": "Action-Survival",
     "description": "ну короче, суть игры в том, что играя за чувачков надо спасти других чувачков",
     "tools": "unity",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjVHx0_5Kc8XPBIg?e=9W3xmf",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/yon.jpg"
   },
   {
@@ -172,7 +172,7 @@
     "genre": "RTS",
     "description": "Вам нужно будет днем исследовать карту и собирать ресурсы, а ночью защищать и развивать совою базу",
     "tools": "Unreal Engine 4,Blender, Zbrush,Photoshop,Maya",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizi-RRZ-xZs4d2RZA?e=mTK5lW",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/forest-guard.jpg"
   },
   {
@@ -180,7 +180,7 @@
     "genre": "Пазл",
     "description": "Тетрис со свободным перемещением во времени.",
     "tools": "Godot, Paint.net",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjZCtNoyuEoz__SO?e=zhbiWm",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/tstnt.jpg"
   },
   {
@@ -188,7 +188,7 @@
     "genre": "Tower defense",
     "description": "Управляй обороной фронта, кликая по пушками и отправляя их в будущее.Выбери орудия, организуй оборону и не дай врагам сломить оборону или пересечь фронт!",
     "tools": "Godot, Inkscape, GIMP",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjcGmKMY0ycI2fGk?e=Xv5wEe",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/demo/chrono-front.jpg"
   },
   {
@@ -196,7 +196,7 @@
     "genre": "ХОРРОР",
     "description": "ВЕРНИТЕСЬ В ПРОШЛОЕ, ЧТОБЫ ВСЕ ИСПРАВИТЬ",
     "tools": "Godot, Blender, GIMP, Audacity",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjnJYWuxrGSaFfsH?e=W5gU2F",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/dead-inside.jpg"
   },
   {
@@ -204,7 +204,7 @@
     "genre": "Адвенчура",
     "description": "Доктор прописал таблетки от депрессии, но они дали странный эффект заморозки времени. Управляй временем, успевай везде.",
     "tools": "Unity, Photoshop, Audacity",
-    "archive": "https://1drv.ms/u/s!AsNfKXA75jDizjqkyJAJEacXRCEj?e=vHutQZ",
+    "archive": "",
     "screenshot": "https://cdn.blyat.science/gd/twg/20/final/pills.jpg"
   }
 ]
